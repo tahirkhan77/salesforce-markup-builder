@@ -1,4 +1,3 @@
-* [Introduction](/)
-* [Tahir](cover.md)
+* [Home](/)
 * [Getting Started](guide.md)
-* [Installation](guide.md)
+* [Tahir](cover.md)
