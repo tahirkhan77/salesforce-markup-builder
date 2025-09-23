@@ -1,3 +1,3 @@
 * [Home](/)
-* [Getting Started](guide.md)
-* [Tahir](cover.md)
+* [Getting Started](gettingStarted.md)
+* [Features](/features.md)
