@@ -5,7 +5,7 @@ Thank you for using **Salesforce Markup Builder** this is a UI design tool that 
 ![Static Badge](https://img.shields.io/badge/release-v1.1.0-blue)
 
 ## Download the App
-
+ 
 Click the button below to download **Salesforce Markup Builder** and start creating LWC UI faster.
 
 [Download Now](https://chromewebstore.google.com/detail/salesforce-markup-builder/dmikhohlckeamhjfgmkeincjbfgnlleh) <!-- Link to the download page or file -->
