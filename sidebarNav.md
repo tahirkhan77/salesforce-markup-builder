@@ -1,3 +1,3 @@
 * [Home](/)
-* [Getting Started](gettingStarted.md)
+* [Getting Started](/gettingStarted.md)
 * [Features](/features.md)
