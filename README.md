@@ -2,7 +2,7 @@
 
 Thank you for using **Salesforce Markup Builder** this is a UI design tool that helps developers, admins and designers quickly create Lightning Web Components. Users can visually create Salesforce user interfaces by simply dragging and dropping components onto the canvas. This makes it easy for anyone, even without coding experience, to build fully functional UI layouts.
 
-![Static Badge]([https://img.shields.io/badge/release-v1.1.0-blue](https://img.shields.io/chrome-web-store/v/dmikhohlckeamhjfgmkeincjbfgnlleh?style=flat-square&label=release))
+![Static Badge](https://img.shields.io/chrome-web-store/v/dmikhohlckeamhjfgmkeincjbfgnlleh?style=flat-square&label=release)
 
 ## Download the App
  
