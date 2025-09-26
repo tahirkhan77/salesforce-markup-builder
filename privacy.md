@@ -1,4 +1,4 @@
-## Priacy
+## Privacy
 
 Salesforce Markup Builder respects your privacy. This Privacy Policy explains how we handle user information when you use our application/extension.
 
