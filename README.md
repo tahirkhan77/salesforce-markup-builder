@@ -10,13 +10,6 @@ Click the button below to download **Salesforce Markup Builder** and start creat
 
 [Download Now](https://chromewebstore.google.com/detail/salesforce-markup-builder/dmikhohlckeamhjfgmkeincjbfgnlleh) <!-- Link to the download page or file -->
 
-## Priacy
-
-- **No Data Collection :** We do not collect any personal or sensitive user data.
-- **Code and Content Security :** Any code exported or downloaded through the app is generated locally and not stored or accessed by us.
--  **Cookies & Analytics :** We do not use cookies or third-party analytics tools within the app.
--  **Third-Party Access :** We do not share or transfer any data to third parties. Your designs and code remain fully private.
-
 ## About
 
 This extension is created and maintained by **Tahir Khan**
